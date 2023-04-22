@@ -1,4 +1,5 @@
 #!/bin/bash
+#hello commenart
 N=${1:-10}
 
 a=0
